@@ -1,12 +1,12 @@
 ### Hi there! I'm Patrick Pinheiro 👋
 
-Software Engineer | Full-Stack Developer | Based in Netherlands
+Full-Stack Developer | 🌍 Based in Hilversum, Netherlands
 
 ---
 
 ### 💻 About Me
 
-I'm a passionate software engineer with experience in full-stack development and solution design. I love working on problem-solving, system architecture, and cloud computing, always looking for ways to innovate and optimize complex solutions.
+I'm a passionate software developer with experience in full-stack development and solution design. I love working on problem-solving, system architecture, and cloud computing, always looking for ways to innovate and optimize complex solutions.
 
 ---
 
