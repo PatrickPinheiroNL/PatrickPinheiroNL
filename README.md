@@ -56,7 +56,7 @@ I'm a passionate software developer with experience in full-stack development an
 ### 🌐 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/patrick-freitas-pinheiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/PatrickPinheiroNL" target="_blank">
