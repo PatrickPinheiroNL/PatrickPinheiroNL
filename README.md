@@ -1,6 +1,6 @@
 ### Hi there! I'm Patrick Pinheiro 👋
 
-Full-Stack Developer | 🌍 Based in Hilversum, Netherlands
+Back-end Developer | 🌍 Based in Hilversum, Netherlands
 
 ---
 
